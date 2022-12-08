@@ -1,0 +1,90 @@
+.body{
+	margin: 25px 50px 75px 100px;
+	padding: 10%;
+}
+
+.p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+.site-banner p{
+	font-family:Times new roman, serif;
+	font-weight: bold;
+	color: #241571;
+	letter-spacing: 2px;
+	font-size: 15px
+}
+
+.site-banner{
+	border-bottom: 4px #241571 solid;
+	text-align: left;
+	font-size:25px
+}
+
+.article {
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+
+.story-header h1{
+	font-family: Times New Roman, serif;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	color: #241571;
+	}
+
+
+	.byline{
+		color: #241571;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+
+		img {
+		  display: block;
+		  width: 60%;
+		  margin-left: auto;
+		  margin-right: auto;
+		}
+
+	.photo-caption{
+		color: #828282;
+	}
+
+
+	.text{
+		font-family: Times New Roman, serif;
+		font-size: 20px;
+	}
+
+	.article a{
+		color: #0000CD;
+		text-decoration: underline;
+		font-style: italic;
+		background-color: transparent;
+	}
+
+	.graphs{
+		display: block;
+		width: 70%;
+		margin: auto;
+	}
+
+
+	.footer h3{
+	font-family: Times New Roman, serif;
+	font-weight: bold;
+	color: #241571 ;
+}
+
+
+
+
+
